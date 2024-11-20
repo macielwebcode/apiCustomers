@@ -1,8 +1,8 @@
 ## API Customers && Demandas && Users && Files
 API para gerenciar: user, customers, demandas e files.
 
-<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=NODEJS"/>
-<img src="https://img.shields.io/static/v1?label=Vercel&message=deploy&color=blue&style=for-the-badge&logo=SEQUELIZE"/>
+<img src="https://img.shields.io/static/v1?label=nodejs&message=framework&color=blue&style=for-the-badge&logo=NODEJS"/>
+<img src="https://img.shields.io/static/v1?label=Sequelize&message=framework&color=blue&style=for-the-badge&logo=SEQUELIZE"/>
 
 ## Status do Projeto: ✔️ (concluido)
 
