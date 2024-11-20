@@ -1,0 +1,11 @@
+DATABASE=customers
+DATABASE_HOST=localhost
+DATABASE_PORT=3306
+DATABASE_USERNAME=root
+
+TOKEN_SECRET=sdj489435ngj%ïgnerg
+TOKEN_EXPIRATION=7d
+
+
+
+npx sequelize migration:create --name=criar-tabela-images-demandas
